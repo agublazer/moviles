@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Juego Memoria</string>
+    <string name="puntaje">Puntaje: </string>
+    <string name="ganaste">Fin del juego</string>
+    <string name="nivel1">Nivel 1</string>
+    <string name="nivel2">Nivel 2</string>
+</resources>
